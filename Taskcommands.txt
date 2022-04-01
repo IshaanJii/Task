@@ -1,0 +1,24 @@
+* 7e00fdd
+*   45ffac9
+|\  
+| * 9b72698
+* | 053ea46
+|/  
+* 30e4be4
+* befeeb7
+*  Hash: 7e00fdd Date: 3 minutes ago  Message: Update newfile.txt 
+*    Hash: 45ffac9 Date: 5 minutes ago  Message: Merge branch 'new' 
+|\  
+| *  Hash: 9b72698 Date: 7 minutes ago  Message: branch commit 1 
+* |  Hash: 053ea46 Date: 10 minutes ago  Message: second 
+|/  
+*  Hash: 30e4be4 Date: 13 minutes ago  Message: First commit 
+*  Hash: befeeb7 Date: 19 minutes ago  Message: Initial commit 
+* 7e00fdd (HEAD -> main, origin/main, origin/HEAD) Update newfile.txt
+*   45ffac9 Merge branch 'new'
+|\  
+| * 9b72698 (new) branch commit 1
+* | 053ea46 second
+|/  
+* 30e4be4 First commit
+* befeeb7 Initial commit
